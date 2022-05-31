@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2ace7468-6ce5-4447-9931-7e23b344da99": {
+      "ProjectGuid": "2ace7468-6ce5-4447-9931-7e23b344da99",
+      "DisplayName": "pipe",
+      "ColorIndex": 0
+    },
+    "45b6dc80-81cf-4399-82bd-e06f18289672": {
+      "ProjectGuid": "45b6dc80-81cf-4399-82bd-e06f18289672",
+      "DisplayName": "pipeServidor",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,14 @@
+D:\Procesos\EXAMEN\UD1\PSP01_MadLib_solucion\PSP01\pipe\bin\Debug\netcoreapp3.1\pipe.exe
+D:\Procesos\EXAMEN\UD1\PSP01_MadLib_solucion\PSP01\pipe\bin\Debug\netcoreapp3.1\pipe.deps.json
+D:\Procesos\EXAMEN\UD1\PSP01_MadLib_solucion\PSP01\pipe\bin\Debug\netcoreapp3.1\pipe.runtimeconfig.json
+D:\Procesos\EXAMEN\UD1\PSP01_MadLib_solucion\PSP01\pipe\bin\Debug\netcoreapp3.1\pipe.runtimeconfig.dev.json
+D:\Procesos\EXAMEN\UD1\PSP01_MadLib_solucion\PSP01\pipe\bin\Debug\netcoreapp3.1\pipe.dll
+D:\Procesos\EXAMEN\UD1\PSP01_MadLib_solucion\PSP01\pipe\bin\Debug\netcoreapp3.1\pipe.pdb
+D:\Procesos\EXAMEN\UD1\PSP01_MadLib_solucion\PSP01\pipe\obj\Debug\netcoreapp3.1\pipe.csproj.AssemblyReference.cache
+D:\Procesos\EXAMEN\UD1\PSP01_MadLib_solucion\PSP01\pipe\obj\Debug\netcoreapp3.1\pipe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Procesos\EXAMEN\UD1\PSP01_MadLib_solucion\PSP01\pipe\obj\Debug\netcoreapp3.1\pipe.AssemblyInfoInputs.cache
+D:\Procesos\EXAMEN\UD1\PSP01_MadLib_solucion\PSP01\pipe\obj\Debug\netcoreapp3.1\pipe.AssemblyInfo.cs
+D:\Procesos\EXAMEN\UD1\PSP01_MadLib_solucion\PSP01\pipe\obj\Debug\netcoreapp3.1\pipe.csproj.CoreCompileInputs.cache
+D:\Procesos\EXAMEN\UD1\PSP01_MadLib_solucion\PSP01\pipe\obj\Debug\netcoreapp3.1\pipe.dll
+D:\Procesos\EXAMEN\UD1\PSP01_MadLib_solucion\PSP01\pipe\obj\Debug\netcoreapp3.1\pipe.pdb
+D:\Procesos\EXAMEN\UD1\PSP01_MadLib_solucion\PSP01\pipe\obj\Debug\netcoreapp3.1\pipe.genruntimeconfig.cache
